@@ -2,3 +2,4 @@ handlers
 logging
 aiogram
 misc
+SQLite3
